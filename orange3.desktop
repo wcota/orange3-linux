@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Orange Data Mining
+GenericName=Data Mining Suite
+Comment=Explore, analyze, and visualize your data
+Exec=orange3
+Icon=orange3
+Terminal=false
+MimeType=application/x-extension-ows;
+Categories=Science;Education;ArtificialIntelligence;DataVisualization;NumericalAnalysis;Qt;
+Keywords=Machine Learning;Scientific Visualization;Statistical Analysis;
